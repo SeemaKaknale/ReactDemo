@@ -1,0 +1,19 @@
+{
+  "donations": [
+    {
+      "date": "2024-06-20",
+      "amount": 1000,
+      "students": [
+        { "id": 1, "name": "John Doe", "amount": 200 },
+        { "id": 2, "name": "Jane Smith", "amount": 180 }
+
+      ],
+      "classes": [
+        { "id": 1, "name": "Class A", "amount": 500 },
+        { "id": 2, "name": "Class B", "amount": 300 }
+
+      ]
+    }
+
+  ]
+}
